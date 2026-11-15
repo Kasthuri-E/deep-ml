@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:03:30.917Z",
+  "generated_at": "2026-11-15T08:04:17.883Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -36,9 +36,9 @@
       "url": "https://www.deep-ml.com/problems/125",
       "path": "problems/0125-implement-a-sparse-mixture-of-experts-layer",
       "first_solved_at": "2026-11-15T02:33:15.870Z",
-      "last_pushed_at": "2026-11-15T02:33:15.870Z",
+      "last_pushed_at": "2026-11-15T02:34:03.012Z",
       "language": "python",
-      "lines": 27
+      "lines": 26
     }
   }
 }
